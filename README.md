@@ -14,3 +14,8 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 # Healthcare vs. Poverty
 
+![healthcare.png](Images/healthcare.png)
+
+# Smokers vs. Age
+
+![Smokers.png](Images/Smokers.png)
